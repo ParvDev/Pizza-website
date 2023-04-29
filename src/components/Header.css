@@ -1,0 +1,17 @@
+.header{
+    background-color: black;
+    padding: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.headerText{
+    font-size: 15px;
+    color: white;
+    font-weight: 500;
+}
+
+.headerRight {
+    margin-right: 10px;
+}

@@ -1,0 +1,13 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.menu{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 400;
+    font-family: 'Oleo Script';
+    color: #F2994A;
+}

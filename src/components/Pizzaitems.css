@@ -1,0 +1,38 @@
+.pizzaItem{
+    margin: 20px;
+    align-items: center;
+}
+
+.pizzaItemText{
+    font-size: 14px;
+    font-weight: 500;
+    color: black
+}
+
+.pizzaItemDescription{
+    font-size:14px;
+    font-weight:500;
+    color:gray;
+    width:150px;
+    text-align: center;
+}
+
+.pizzaItemContainer{
+    background-color: white;
+    padding: 8px;
+    height:80px;
+    width:"100%";
+}
+
+.pizzaitembutton{
+    border: 1px solid orange;
+    border-radius: 17px;
+    margin-top: 10px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+    background-color: #F2994A;
+    width: 251px;
+    height:33px;
+}
